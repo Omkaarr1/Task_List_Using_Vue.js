@@ -2,6 +2,8 @@
 
 A simple task list application built with Vue.js that allows users to manage tasks. This project demonstrates the use of Vue.js for user interface interactions and state management.
 
+## Give it a Try: http://35.200.155.237/
+
 ## Technologies Used
 
 - Vue.js
